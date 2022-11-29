@@ -1,0 +1,51 @@
+@font-face {
+    font-family: God of war;
+    src: url(Berserker-Regular.woff);
+}
+.titulo{
+    width: 250px;
+}
+h1{
+    padding-top: 10px;
+    text-align: center;
+    font-family: "God of war";
+}
+h4{
+    font-family: "God of war";
+    border-bottom: 2px solid rgb(33, 32, 32);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+p{
+    text-indent: 1cm;
+}
+.personagem{
+    width: 75px;
+}
+h5{
+    font-family: "God of war";
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.armas{
+    width: 318px;
+    height: 300px;
+}
+.serie{
+    margin-left: 150px;
+    margin-right: 210px;
+    width: 710px;
+    height: 710px;
+}
+.rodape{
+    width: 250px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+form{
+    width: 300px;
+    float: right;
+    margin-top: 15px;
+    margin-right: 8px;
+}
